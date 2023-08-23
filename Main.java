@@ -25,5 +25,7 @@ public static void main(String[] args) {
         
     }
    System.out.println(ans);
+//    trying 2nd push
+System.out.println(arr[2]);
 }
 }
