@@ -39,3 +39,4 @@ public class 1004. Max Consecutive Ones III {
 
     }
 }
+//  trying diff approach
